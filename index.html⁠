@@ -127,7 +127,7 @@
         <div class="content">
             
             <div class="profile-section">
-                <img src="profile.jpg" alt="Nidal Navas" class="avatar">
+                <img src="profile.jpg.jpg" alt="Nidal Navas" class="avatar">
                 <div class="profile-text">
                     <h1>SYS.LOC://NIDAL_NAVAS</h1>
                     <p class="status">SYSTEM STATUS: ACTIVE<span style="animation: blink 1s infinite;">_</span></p>
