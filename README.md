@@ -1,3 +1,3 @@
 # Nidal-Navas-
-# Top 4th position on hacking on the platform linux 
-# A very extra ordinary harwork and ditermination we the TEAM PLATFORM Congratulate you bu adding you name in google github thank you for you evry support with us 
+# Recognized as a top-ranked contributor in Linux security.
+# Through exceptional dedication and hard work, I have been honored by the Platform Team for my contributions, which are now featured on GitHub. I am grateful for the opportunity to have supported the team in this capacity.
